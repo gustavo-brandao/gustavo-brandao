@@ -35,8 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C          27 mins         ███████████████░░░░░░░░░░   60.40 %
-Markdown   17 mins         ██████████░░░░░░░░░░░░░░░   39.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
