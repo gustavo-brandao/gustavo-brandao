@@ -35,7 +35,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          13 mins         ██████████████████░░░░░░░   71.55 %
+Markdown   5 mins          ███████░░░░░░░░░░░░░░░░░░   28.45 %
 ```
 
 <!--END_SECTION:waka-->
