@@ -35,8 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C       4 mins          ███████████████████████▒░   93.15 %
-CMake   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
