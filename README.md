@@ -35,7 +35,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML          2 mins          █████████████████▒░░░░░░░   69.09 %
+PowerShell   1 min           ███████▓░░░░░░░░░░░░░░░░░   30.91 %
 ```
 
 <!--END_SECTION:waka-->
