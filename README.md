@@ -35,11 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 1 hr 5 mins           ██████████████████████▓░░   90.23 %
-Python                             6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Microsoft Visual Studio Solution   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JSON                               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-XML                                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C#                                 1 hr 37 mins          ███████████████████████▒░   93.22 %
+Python                             6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Microsoft Visual Studio Solution   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON                               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+XML                                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
