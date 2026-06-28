@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Trabalhando como Técnico em Informática
-- 🌱 Estudando HTML5, CSS3 e JavaScript
+- 🔭 Trabalhando como Analista de TI
+- 🌱 Estudando HTML5, CSS3, JavaScript, C#
 
 
 <div align="center">
