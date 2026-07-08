@@ -35,8 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Binary   14 mins               ████████████████▓░░░░░░░░   67.27 %
-C#       6 mins                ████████▒░░░░░░░░░░░░░░░░   32.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
