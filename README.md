@@ -20,23 +20,23 @@ Também gosto de jogos, dos clássicos aos atuais. Os jogos retrôs e a pixel ar
 ## Tecnologias
 
 <p>
-  <img src="assets/tech-csharp.svg" width="148" height="112" alt="C#">
-  <img src="assets/tech-dotnet.svg" width="148" height="112" alt=".NET">
-  <img src="assets/tech-sqlserver.svg" width="148" height="112" alt="Microsoft SQL Server">
-  <img src="assets/tech-azure.svg" width="148" height="112" alt="Microsoft Azure">
+  <img src="assets/tech-csharp-mono.svg" width="148" height="112" alt="C#">
+  <img src="assets/tech-dotnet-mono.svg" width="148" height="112" alt=".NET">
+  <img src="assets/tech-sqlserver-mono.svg" width="148" height="112" alt="Microsoft SQL Server">
+  <img src="assets/tech-azure-mono.svg" width="148" height="112" alt="Microsoft Azure">
 </p>
 
 <p>
-  <img src="assets/tech-javascript.svg" width="128" height="100" alt="JavaScript">
-  <img src="assets/tech-html.svg" width="128" height="100" alt="HTML">
-  <img src="assets/tech-css.svg" width="128" height="100" alt="CSS">
+  <img src="assets/tech-javascript-mono.svg" width="128" height="100" alt="JavaScript">
+  <img src="assets/tech-html-mono.svg" width="128" height="100" alt="HTML">
+  <img src="assets/tech-css-mono.svg" width="128" height="100" alt="CSS">
 </p>
 
 <p>
-  <img src="assets/tool-mysql.svg" width="124" height="86" alt="MySQL">
-  <img src="assets/tool-git.svg" width="124" height="86" alt="Git">
-  <img src="assets/tool-vite.svg" width="124" height="86" alt="Vite">
-  <img src="assets/tool-tailwind.svg" width="124" height="86" alt="Tailwind CSS">
+  <img src="assets/tool-mysql-mono.svg" width="124" height="86" alt="MySQL">
+  <img src="assets/tool-git-mono.svg" width="124" height="86" alt="Git">
+  <img src="assets/tool-vite-mono.svg" width="124" height="86" alt="Vite">
+  <img src="assets/tool-tailwind-mono.svg" width="124" height="86" alt="Tailwind CSS">
 </p>
 
 <details>

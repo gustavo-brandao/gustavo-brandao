@@ -75,9 +75,9 @@ def build():
     secondary = {'javascript':'JavaScript','html':'HTML','css':'CSS'}
     for name,label in {**primary, **secondary}.items():
         w,h,size = (148,112,52) if name in primary else (128,100,44)
-        tile(name,label,w,h,size,f'tech-{name}.svg')
+        tile(name,label,w,h,size,f'tech-{name}-mono.svg')
     for name,label,w in [('mysql','MySQL',100),('git','Git',72),('vite','Vite',76),('tailwind','Tailwind CSS',144)]:
-        tile(name,label,124,86,32,f'tool-{name}.svg')
+        tile(name,label,124,86,32,f'tool-{name}-mono.svg')
 
 
 if __name__ == '__main__':
