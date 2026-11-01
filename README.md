@@ -20,23 +20,23 @@ Também gosto de jogos, dos clássicos aos atuais. Os jogos retrôs e a pixel ar
 ## Tecnologias
 
 <p>
-  <img src="assets/tech-csharp.svg" width="112" height="84" alt="C#">
-  <img src="assets/tech-dotnet.svg" width="112" height="84" alt=".NET">
-  <img src="assets/tech-sqlserver.svg" width="112" height="84" alt="Microsoft SQL Server">
-  <img src="assets/tech-azure.svg" width="112" height="84" alt="Microsoft Azure">
+  <img src="assets/tech-csharp.svg" width="148" height="112" alt="C#">
+  <img src="assets/tech-dotnet.svg" width="148" height="112" alt=".NET">
+  <img src="assets/tech-sqlserver.svg" width="148" height="112" alt="Microsoft SQL Server">
+  <img src="assets/tech-azure.svg" width="148" height="112" alt="Microsoft Azure">
 </p>
 
 <p>
-  <img src="assets/tech-javascript.svg" width="96" height="76" alt="JavaScript">
-  <img src="assets/tech-html.svg" width="96" height="76" alt="HTML">
-  <img src="assets/tech-css.svg" width="96" height="76" alt="CSS">
+  <img src="assets/tech-javascript.svg" width="128" height="100" alt="JavaScript">
+  <img src="assets/tech-html.svg" width="128" height="100" alt="HTML">
+  <img src="assets/tech-css.svg" width="128" height="100" alt="CSS">
 </p>
 
 <p>
-  <img src="assets/tool-mysql.svg" width="100" height="32" alt="MySQL">
-  <img src="assets/tool-git.svg" width="72" height="32" alt="Git">
-  <img src="assets/tool-vite.svg" width="76" height="32" alt="Vite">
-  <img src="assets/tool-tailwind.svg" width="144" height="32" alt="Tailwind CSS">
+  <img src="assets/tool-mysql.svg" width="124" height="86" alt="MySQL">
+  <img src="assets/tool-git.svg" width="124" height="86" alt="Git">
+  <img src="assets/tool-vite.svg" width="124" height="86" alt="Vite">
+  <img src="assets/tool-tailwind.svg" width="124" height="86" alt="Tailwind CSS">
 </p>
 
 <details>
@@ -48,11 +48,35 @@ React · Next.js · Python · PHP
 
 ## Projetos em destaque
 
-| Projeto | Sobre | Tecnologias |
-| :--- | :--- | :--- |
-| [landing-karina-ramai](https://github.com/gustavo-brandao/landing-karina-ramai) | Landing page institucional com portfólio e visual editorial. | HTML · CSS · JavaScript · Vite · Tailwind CSS |
-| [calculadora-csharp](https://github.com/gustavo-brandao/calculadora-csharp) | Prática de fundamentos com uma calculadora de console. | C# · .NET |
-| [clone-tabnews](https://github.com/gustavo-brandao/clone-tabnews) | Projeto de aprendizado em estágio inicial. | React · Next.js |
+<a href="https://github.com/gustavo-brandao/landing-karina-ramai">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-landing-karina-ramai-mobile.svg">
+    <img src="assets/project-landing-karina-ramai.svg" width="100%" alt="landing-karina-ramai — Site institucional e portfólio de arquitetura. HTML, CSS, JavaScript, Vite e Tailwind CSS. Ver código.">
+  </picture>
+</a>
+
+<a href="https://github.com/gustavo-brandao/calculadora-csharp">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-calculadora-csharp-mobile.svg">
+    <img src="assets/project-calculadora-csharp.svg" width="100%" alt="calculadora-csharp — Calculadora de console para praticar C# e .NET. Ver código.">
+  </picture>
+</a>
+
+<a href="https://github.com/gustavo-brandao/clone-tabnews">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-clone-tabnews-mobile.svg">
+    <img src="assets/project-clone-tabnews.svg" width="100%" alt="clone-tabnews — Estudo do curso.dev, inspirado no TabNews. React e Next.js. Ver código.">
+  </picture>
+</a>
+
+<details>
+  <summary>Ver projetos em texto</summary>
+
+- [landing-karina-ramai](https://github.com/gustavo-brandao/landing-karina-ramai): site institucional e portfólio de arquitetura — HTML, CSS, JavaScript, Vite e Tailwind CSS.
+- [calculadora-csharp](https://github.com/gustavo-brandao/calculadora-csharp): calculadora de console para praticar C# e .NET.
+- [clone-tabnews](https://github.com/gustavo-brandao/clone-tabnews): estudo do curso.dev, inspirado no TabNews — React e Next.js.
+
+</details>
 
 ## Contribuições em modo arcade
 

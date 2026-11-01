@@ -27,6 +27,8 @@ Pac-Man usa as contribuições reais da conta. As alternativas sem movimento res
 - `scripts/update_wakatime.py`: atualiza o painel e a alternativa em texto.
 - `scripts/prepare_pacman.py`: aplica a paleta e gera a versão sem animações.
 
-Para reconstruir os arquivos visuais localmente: `python scripts/build_assets.py`. O banner estático é mantido para quem usa redução de movimento.
+Para reconstruir os arquivos visuais localmente: `python scripts/build_assets.py` e `python scripts/build_projects.py`. O banner estático é mantido para quem usa redução de movimento.
+
+Os ícones de tecnologias usam uma paleta monocromática azul, com espaço negativo em grafite. Os projetos são selecionados manualmente em `scripts/build_projects.py`; seus cartões têm versões para telas menores e links e descrições em texto no README. A ilustração arquitetônica é simbólica e não representa uma obra real da arquiteta.
 
 Sugestão de repositórios fixados: landing-karina-ramai, calculadora-csharp e clone-tabnews. Fixá-los é uma configuração independente do README.
