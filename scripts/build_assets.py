@@ -72,11 +72,11 @@ def build():
         body += f'<text x="39" y="23" fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" font-size="12">{label}</text>'
         (ASSETS / f'social-{name}.svg').write_text(svg(118,36,label,body), encoding='utf-8')
     primary = {'csharp':'C#', 'dotnet':'.NET', 'sqlserver':'SQL Server', 'azure':'Azure'}
-    secondary = {'javascript':'JavaScript','html':'HTML','css':'CSS'}
+    secondary = {'javascript':'JavaScript','html':'HTML','css':'CSS','php':'PHP'}
     for name,label in {**primary, **secondary}.items():
         w,h,size = (148,112,52) if name in primary else (128,100,44)
         tile(name,label,w,h,size,f'tech-{name}-mono.svg')
-    for name,label,w in [('mysql','MySQL',100),('git','Git',72),('vite','Vite',76),('tailwind','Tailwind CSS',144)]:
+    for name,label,w in [('mysql','MySQL',100),('git','Git',72),('tailwind','Tailwind CSS',144)]:
         tile(name,label,124,86,32,f'tool-{name}-mono.svg')
 
 

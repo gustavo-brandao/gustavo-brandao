@@ -30,19 +30,19 @@ Também gosto de jogos, dos clássicos aos atuais. Os jogos retrôs e a pixel ar
   <img src="assets/tech-javascript-mono.svg" width="128" height="100" alt="JavaScript">
   <img src="assets/tech-html-mono.svg" width="128" height="100" alt="HTML">
   <img src="assets/tech-css-mono.svg" width="128" height="100" alt="CSS">
+  <img src="assets/tech-php-mono.svg" width="128" height="100" alt="PHP">
 </p>
 
 <p>
   <img src="assets/tool-mysql-mono.svg" width="124" height="86" alt="MySQL">
   <img src="assets/tool-git-mono.svg" width="124" height="86" alt="Git">
-  <img src="assets/tool-vite-mono.svg" width="124" height="86" alt="Vite">
   <img src="assets/tool-tailwind-mono.svg" width="124" height="86" alt="Tailwind CSS">
 </p>
 
 <details>
   <summary>Outros estudos</summary>
 
-React · Next.js · Python · PHP
+React · Next.js · Python
 
 </details>
 
