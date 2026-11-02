@@ -103,6 +103,7 @@ Atualizado em 2026-11-01 (UTC)
 JavaScript             50 min   63.5%
 JSON                   12 min   15.8%
 Total registrado: 1 h 04 min
+Não foi possível atualizar agora; consulte a data da última coleta.
 ```
 
 <!--END_SECTION:waka-->
