@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Mon Nov 02 2026 19:38:55 GMT+0000 (Coordinated Universal Time)</desc><metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Tue Nov 03 2026 17:11:14 GMT+0000 (Coordinated Universal Time)</desc><metadata>
 		<info>
-			<frames>360</frames>
+			<frames>420</frames>
 			<frameRate>5</frameRate>
-			<durationMs>72000</durationMs>
-			<generatedOn>2026-11-02T19:38:55.487Z</generatedOn>
+			<durationMs>84000</durationMs>
+			<generatedOn>2026-11-03T17:11:14.554Z</generatedOn>
 		</info>
 	</metadata><rect width="100%" height="100%" fill="#0d1117" /><defs>
                 <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
@@ -92,31 +92,26 @@
 		</path><g id="ghost0" transform="translate(0,0)">
 			<use href="#ghost-blinky-up" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-blinky-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-blinky-left" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-blinky-right" width="20" height="20" visibility="visible">
-				</use><use href="#ghost-eyes-up" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-eyes-down" width="20" height="20" visibility="hidden">
+				</use><use href="#ghost-blinky-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-blinky-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost1" transform="translate(0,0)">
 			<use href="#ghost-inky-up" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-inky-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-inky-left" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-inky-right" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-inky-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-inky-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost2" transform="translate(0,0)">
-			<use href="#ghost-pinky-up" width="20" height="20" visibility="hidden">
+			<use href="#ghost-pinky-up" width="20" height="20" visibility="visible">
 				</use><use href="#ghost-pinky-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-pinky-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-pinky-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-pinky-right" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-eyes-up" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-eyes-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-eyes-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost3" transform="translate(0,0)">
-			<use href="#ghost-clyde-up" width="20" height="20" visibility="hidden">
+			<use href="#ghost-clyde-up" width="20" height="20" visibility="visible">
 				</use><use href="#ghost-clyde-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-clyde-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-clyde-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-clyde-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-up" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-down" width="20" height="20" visibility="hidden">
