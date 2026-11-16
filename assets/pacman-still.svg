@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Sun Nov 15 2026 16:28:32 GMT+0000 (Coordinated Universal Time)</desc><metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Mon Nov 16 2026 19:43:55 GMT+0000 (Coordinated Universal Time)</desc><metadata>
 		<info>
-			<frames>242</frames>
+			<frames>284</frames>
 			<frameRate>5</frameRate>
-			<durationMs>48400</durationMs>
-			<generatedOn>2026-11-15T16:28:32.669Z</generatedOn>
+			<durationMs>56800</durationMs>
+			<generatedOn>2026-11-16T19:43:55.770Z</generatedOn>
 		</info>
 	</metadata><rect width="100%" height="100%" fill="#0d1117" /><defs>
                 <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
@@ -97,8 +97,8 @@
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost1" transform="translate(0,0)">
 			<use href="#ghost-inky-up" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-inky-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-inky-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-inky-down" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-inky-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-inky-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-up" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-down" width="20" height="20" visibility="hidden">
