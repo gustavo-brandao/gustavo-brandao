@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Tue Nov 17 2026 18:40:17 GMT+0000 (Coordinated Universal Time)</desc><metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Wed Nov 18 2026 18:14:39 GMT+0000 (Coordinated Universal Time)</desc><metadata>
 		<info>
-			<frames>415</frames>
+			<frames>384</frames>
 			<frameRate>5</frameRate>
-			<durationMs>83000</durationMs>
-			<generatedOn>2026-11-17T18:40:17.606Z</generatedOn>
+			<durationMs>76800</durationMs>
+			<generatedOn>2026-11-18T18:14:39.656Z</generatedOn>
 		</info>
 	</metadata><rect width="100%" height="100%" fill="#0d1117" /><defs>
                 <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
@@ -103,8 +103,8 @@
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost2" transform="translate(0,0)">
 			<use href="#ghost-pinky-up" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-pinky-down" width="20" height="20" visibility="visible">
-				</use><use href="#ghost-pinky-left" width="20" height="20" visibility="hidden">
+				</use><use href="#ghost-pinky-down" width="20" height="20" visibility="hidden">
+				</use><use href="#ghost-pinky-left" width="20" height="20" visibility="visible">
 				</use><use href="#ghost-pinky-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
