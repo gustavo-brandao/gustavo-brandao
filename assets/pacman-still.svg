@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Wed Nov 18 2026 18:14:39 GMT+0000 (Coordinated Universal Time)</desc><metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="184"><desc>Generated with pacman-contribution-graph on Thu Nov 19 2026 18:25:16 GMT+0000 (Coordinated Universal Time)</desc><metadata>
 		<info>
-			<frames>384</frames>
+			<frames>390</frames>
 			<frameRate>5</frameRate>
-			<durationMs>76800</durationMs>
-			<generatedOn>2026-11-18T18:14:39.656Z</generatedOn>
+			<durationMs>78000</durationMs>
+			<generatedOn>2026-11-19T18:25:16.581Z</generatedOn>
 		</info>
 	</metadata><rect width="100%" height="100%" fill="#0d1117" /><defs>
                 <symbol id="ghost-blinky-up" viewBox="0 0 20 20">
@@ -103,15 +103,17 @@
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost2" transform="translate(0,0)">
 			<use href="#ghost-pinky-up" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-pinky-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-pinky-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-pinky-down" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-pinky-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-pinky-right" width="20" height="20" visibility="hidden">
+				</use><use href="#ghost-eyes-up" width="20" height="20" visibility="hidden">
+				</use><use href="#ghost-eyes-down" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-eyes-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g><g id="ghost3" transform="translate(0,0)">
-			<use href="#ghost-clyde-up" width="20" height="20" visibility="hidden">
+			<use href="#ghost-clyde-up" width="20" height="20" visibility="visible">
 				</use><use href="#ghost-clyde-down" width="20" height="20" visibility="hidden">
-				</use><use href="#ghost-clyde-left" width="20" height="20" visibility="visible">
+				</use><use href="#ghost-clyde-left" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-clyde-right" width="20" height="20" visibility="hidden">
 				</use><use href="#ghost-scared" width="20" height="20" visibility="hidden">
 				</use></g></svg>
