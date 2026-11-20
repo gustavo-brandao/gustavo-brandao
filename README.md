@@ -99,11 +99,9 @@ React · Next.js · Python
 
 ```text
 Últimos 7 dias
-Atualizado em 2026-11-01 (UTC)
-JavaScript             50 min   63.5%
-JSON                   12 min   15.8%
-Total registrado: 1 h 04 min
-Não foi possível atualizar agora; consulte a data da última coleta.
+Atualizado em 2026-11-20 (UTC)
+C#                      5 min  100.0%
+Total registrado: 5 min
 ```
 
 <!--END_SECTION:waka-->

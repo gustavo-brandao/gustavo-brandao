@@ -1,18 +1,13 @@
 {
   "languages": [
     {
-      "name": "JavaScript",
-      "seconds": 3049.172,
-      "percent": 63.47
-    },
-    {
-      "name": "JSON",
-      "seconds": 761.237,
-      "percent": 15.85
+      "name": "C#",
+      "seconds": 314.579,
+      "percent": 100
     }
   ],
-  "total_seconds": 3842.109,
-  "start": "2026-10-25",
-  "end": "2026-11-01",
-  "updated": "2026-11-01T16:14:22+00:00"
+  "total_seconds": 314.579,
+  "start": "2026-11-13",
+  "end": "2026-11-20",
+  "updated": "2026-11-20T17:54:40+00:00"
 }
