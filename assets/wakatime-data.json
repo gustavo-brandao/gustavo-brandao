@@ -1,13 +1,7 @@
 {
-  "languages": [
-    {
-      "name": "C#",
-      "seconds": 314.579,
-      "percent": 100
-    }
-  ],
-  "total_seconds": 314.579,
-  "start": "2026-11-13",
-  "end": "2026-11-20",
-  "updated": "2026-11-20T17:54:40+00:00"
+  "languages": [],
+  "total_seconds": 0.0,
+  "start": "2026-11-14",
+  "end": "2026-11-21",
+  "updated": "2026-11-21T16:51:33+00:00"
 }
